@@ -1,10 +1,31 @@
 
-20220518	10:24:30	7950492e-f9c8-4177-b723-9732c7eefe26	/new-page.html	GET
-20220518	10:24:30	aaf7e55b-4529-4105-8cee-bfbc12d69a19	/img/random.jpg	GET
-20220518	10:24:30	b814e16e-3736-4076-9567-b65c648bdf74	/favicon.ico	GET
-20220518	10:27:11	44e638d9-4882-438c-970d-22fd395edfa5	/new-page.html	GET
-20220518	10:27:22	f03e1aae-9088-43ac-94af-cf92f8013c8e	/new-page.html	GET
-20220518	10:27:22	a1065453-a074-442b-8e27-05060ce02776	/img/random.jpg	GET
-20220518	10:27:25	82cbc721-2f7f-4efa-ada1-a34dd9e8d5fa	/	GET
-20220518	10:30:26	a28b6fba-b91e-4547-ae62-614df5e0e037	/	GET
-20220518	10:30:26	2ae83c8f-2cdd-420a-b476-02e443d01565	/css/style.css	GET
+20220518	13:39:47	7af76d32-445c-45d5-b36e-f63dbc1fa424	GET	undefined	/
+20220518	13:39:47	969804e1-21a0-4843-b007-d4e43eebc560	GET	undefined	/css/style.css
+20220518	13:42:03	add43f8a-83c4-48f7-9d7b-4fb15b4e03a3	GET	undefined	/
+20220518	13:42:03	52786179-34d8-4eb6-b053-bff3872ff7b3	GET	undefined	/css/style.css
+20220518	13:45:09	8c5a0837-1e81-4613-a066-89909ae5f8bd	GET	undefined	/
+20220518	13:45:09	b40fd2fb-e179-44ba-9a83-0eb0185b86c9	GET	undefined	/css/style.css
+20220518	13:45:13	005df67d-ee29-4499-9991-921db5a40d31	GET	undefined	/css/style.css
+20220518	13:45:53	152b184f-74ad-4040-93ac-8401bdaf6976	GET	https://www.google.com	/
+20220518	13:48:33	d40e61a6-5d0d-4320-9332-e7e04ee2310e	GET	undefined	/
+20220518	13:48:33	18b4ec9f-294c-4c1a-a5b5-5b894c3f3b0d	GET	undefined	/css/style.css
+20220518	13:48:36	9ce8213b-3671-4339-9de3-06479364c130	GET	undefined	/
+20220518	13:48:36	fd33a7a5-4488-408b-a9d6-c6902210864a	GET	undefined	/css/style.css
+20220518	13:48:43	de438c65-5c4a-43fb-9ec6-7f0845c551f0	GET	https://www.google.com	/
+20220518	13:51:16	687ee8c6-b695-4f42-a2d2-0db3a833117f	GET	https://www.google.com	/
+20220518	13:51:31	fdd61dfa-2c48-4db2-a501-239317e81bad	GET	https://www.google.com	/
+20220518	13:52:40	ac704f12-f80e-4b11-8303-a4f20ae73924	GET	https://www.google.com	/
+20220518	13:54:42	38ce9adb-1657-423d-9d9e-ac561700184e	GET	https://www.google.com	/
+20220518	13:54:52	808dc424-b08a-4762-afc0-eb1a7283025e	GET	undefined	/
+20220518	13:56:10	eb99df15-bbbb-43d1-87b4-96ce633ea886	GET	undefined	/
+20220518	13:56:10	b65b3036-33a4-4218-a2cf-2a7310fee26c	GET	undefined	/css/style.css
+20220518	14:00:08	8aabc86f-24e8-42bc-81f9-d81828ad005f	GET	undefined	/
+20220518	14:00:08	7686d900-b506-409e-b97c-af3cdc266f21	GET	undefined	/css/style.css
+20220518	14:00:29	41981358-8c3f-4293-b72c-c3d77a84a614	GET	undefined	/
+20220518	14:02:36	af7b75d7-fa41-493d-b09b-6d8949529171	GET	undefined	/
+20220518	14:02:36	520755da-17c3-4006-8fe8-c3cff4e8b670	GET	undefined	/css/style.css
+20220518	14:02:42	17e281e1-c852-4529-afc8-73f71ae50739	GET	undefined	/bryan
+20220518	14:05:15	cb261181-ba43-4c72-be82-86a48fef34a4	GET	undefined	/bryan
+20220518	14:05:29	9606402b-07d6-4b84-9808-ec49602706db	GET	undefined	/bryan.json
+20220518	14:05:34	d4071b07-86c2-4646-87db-dcadff3220bf	GET	undefined	/
+20220518	14:05:35	a794c88e-d020-4ead-981e-579e888016db	GET	undefined	/css/style.css

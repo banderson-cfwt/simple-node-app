@@ -2,23 +2,13 @@ const express = require('express');
 const app = express();
 const path = require('path');
 const cors = require('cors');
+const corsOptions = require('./config/corsOptions');
 const { logger } = require('./middleware/logEvents.js');
 const errorHandler = require('./middleware/errorHandler');
 const PORT = process.env.PORT || 3000;
 
 app.use(logger);
 
-const whitelist = ['https://strong-stardust-1dc5a3.netlify.app/', 'http://127.0.0.1:5500', 'http://localhost:3000'];
-const corsOptions = {
-    origin: (origin, callback) => {
-        if (whitelist.indexOf(origin) !== -1 || !origin) {
-            callback(null, true)
-        } else {
-            callback(new Error('Not allowed by CORS'));
-        }
-    },
-    optionsSuccessStatus: 200
-}
 app.use(cors(corsOptions));
 
 app.use(express.urlencoded({ extended: false }));

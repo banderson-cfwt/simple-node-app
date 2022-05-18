@@ -1,7 +1,7 @@
 {
-  "name": "simple-app",
-  "version": "1.0.0",
-  "description": "Simple NodeJS Application",
+  "name": "simple-node-app",
+  "version": "2.0.0",
+  "description": "Simple Node Application",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "date-fns": "^2.28.0",
+    "express": "^4.18.1",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
